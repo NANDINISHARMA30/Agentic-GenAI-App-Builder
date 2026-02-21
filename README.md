@@ -17,3 +17,37 @@ This project demonstrates how to build an agent-based generative AI system capab
 
 The repository includes pre-generated example projects and a modular agent architecture for extensibility.
 
+
+---
+
+## 🧠 Core Capabilities
+
+### 1️⃣ Agent-Based Architecture
+- Built on LangGraph for structured agent workflows
+- Modular design to plug in new AI agents
+- Supports multi-step reasoning and task execution
+
+### 2️⃣ Project Generation
+- Generates functional mini applications
+- Includes:
+  - ✅ Calculator Project Template
+  - ✅ TODO App Template
+
+### 3️⃣ Extensibility
+- Add custom agents inside `/Agents`
+- Integrate new tools or LLM backends
+- Expand to domain-specific assistants
+
+---
+
+## ⚙️ Tech Stack
+
+- Python 3.x
+- LangGraph (agent orchestration)
+- GPT-OSS / Open-source LLM models
+- Virtual environment + dependency locking
+
+---
+
+
+
