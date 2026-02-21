@@ -47,7 +47,15 @@ The repository includes pre-generated example projects and a modular agent archi
 - GPT-OSS / Open-source LLM models
 - Virtual environment + dependency locking
 
----
+📈 Future Improvements
 
+Add frontend interface (Streamlit / React)
+Support multi-model routing
+Add memory and vector database integration
+Deploy as SaaS AI builder platform
+
+📄 License
+
+MIT License — Free to use, modify, and distribute.
 
 
